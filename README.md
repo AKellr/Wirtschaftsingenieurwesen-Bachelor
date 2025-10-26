@@ -1,2 +1,1 @@
-Notes for studies. 
-- commit test
+Notes for Wirtschaftsingenieurwesen
