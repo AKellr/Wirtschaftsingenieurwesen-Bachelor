@@ -37,4 +37,4 @@ Eine gebrochen rationale Funktion $f(x) = \frac{g(x)}{h(x)}$ hat eine **Polstell
 Wenn $x_0$ eine **gemeinsame Nullstelle** sowohl des Zählerpolynoms $g$ als auch des Nennerpolynoms $h$ ist ($g(x_0) = 0$ und $h(x_0) = 0$), liegt bei $x_0$ eine Definitionslücke vor.
 - **Behebbare Definitionslücke:** Liegt vor, wenn sich der Faktor $(x - x_0)$ aus der Linearfaktorzerlegung von $g$ und $h$ **vollständig kürzen lässt**.
 - **Polstelle:** Bleibt der Faktor $(x - x_0)$ im Nenner übrig, liegt eine Polstelle vor.
-- **Keine Nullstelle:** Bleibt der Faktor $(x - x_0)$ im Zähler übrig, liegt dort keine Nullstelle von $f$, da $f$ bei $x_0$ nicht definiert ist.
+	- **Keine Nullstelle:** Bleibt der Faktor $(x - x_0)$ im Zähler übrig, liegt dort keine Nullstelle von $f$, da $f$ bei $x_0$ nicht definiert ist.
