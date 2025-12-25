@@ -1,3 +1,5 @@
+[[Math]]
+
 ## 3.1 Differentiability (Differenzierbarkeit)
 
 ### 🔹 Concept of Rate of Change (Änderungsrate)

@@ -1,3 +1,4 @@
+[[INF]]
 **Was ist Informatik? _(What is Computer Science?)_**
 • **Definitionen**:
     ◦ Informatik ist die Wissenschaft von der **systematischen Verarbeitung von Informationen**, insbesondere der automatischen Verarbeitung mit Hilfe von Computern.

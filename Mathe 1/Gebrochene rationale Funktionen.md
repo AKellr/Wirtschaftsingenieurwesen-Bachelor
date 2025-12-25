@@ -1,3 +1,4 @@
+[[Math]]
 ## Gebrochen rationale Funktionen in der Anwendung
 Gebrochen rationale Funktionen werden in der **Regelungstechnik** zur **Beschreibung von Systemen** (wie z.B. Filtern) durch eine **Übertragungsfunktion $G$** genutzt.
 - Die Übertragungsfunktion $G$ wird als Quotient aus Eingangsgröße $U_1$ und Ausgangsgröße $U_2$ in Abhängigkeit vom Parameter $s$ dargestellt: $$G(s) = \frac{U_2(s)}{U_1(s)}.$$

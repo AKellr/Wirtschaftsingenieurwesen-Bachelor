@@ -1,3 +1,4 @@
+[[GDM]]
 ## **Methodisches Konstruieren** (Methodical Construction)
 **I. Definition und Aufgaben der Konstruktion** (Definition and Tasks of Construction)
 • **Definition Konstruktion** (Definition Construction)

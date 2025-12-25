@@ -1,3 +1,4 @@
+[[INF]]
 ## Bits und Bytes (Bits and Bytes)
 ### 1. Grundlagen der Repräsentation (Fundamentals of Representation)
 • Die niedrigste Ebene der Datenverarbeitung ist **Null/Eins**. (The lowest level of data processing is **Zero/One**).

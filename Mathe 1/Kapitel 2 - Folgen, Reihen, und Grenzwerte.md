@@ -1,3 +1,5 @@
+[[Math]]
+
 ## 2.1 Folgen ($\text{Sequences}$)
 
 ### Definition: Reelle Zahlenfolge

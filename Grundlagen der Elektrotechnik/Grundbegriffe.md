@@ -1,3 +1,4 @@
+[[GDE]]
 ### 1. Elektrische Ladung (Q)
 Die elektrische Ladung ist eine physikalische Größe, die auch als **Elektrizitätsmenge** bezeichnet wird.
 - **Formelzeichen:** $\mathbf{Q}$.

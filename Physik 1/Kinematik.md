@@ -1,3 +1,4 @@
+[[Physics]]
 **3.1. Eindimensionale Kinetik der Punktmasse**
 Die Bewegung eines Punktes ist eindimensional, wenn sie auf einer vorgegebenen Bahn erfolgt ("Spurgeführt"). Zur eindeutigen Bestimmung des Ortes ist dann nur eine Koordinate nötig. Das Objekt kann dabei als Massepunkt mit einem Freiheitsgrad beschrieben werden.
 

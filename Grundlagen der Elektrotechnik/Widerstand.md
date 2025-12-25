@@ -1,3 +1,4 @@
+[[GDE]]
 ## 2.5 Widerstand (Resistance)
 ### Definition und das Ohmsche Gesetz (Definition and Ohm's Law)
 - Bei einem Bauelement mit zwei Anschlüssen (Zweipol) besteht ein **Zusammenhang zwischen der Spannung ($U_{AB}$) über dem Bauelement und dem Strom ($I$) durch das Bauelement**. (For a component with two terminals (two-port), there is a **relationship between the voltage ($U_{AB}$) across the component and the current ($I$) through the component**).

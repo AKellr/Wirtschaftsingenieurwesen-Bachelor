@@ -1,3 +1,5 @@
+[[Math]]
+
 ## 1.2 Potenzfunktionen
 Definition und Eigenschaften
 Eine Funktion vom Typ $y = f(x) = x^n$ mit natürlichem Exponenten $n \in \mathbb{N}$ wird als **Potenzfunktion** bezeichnet.

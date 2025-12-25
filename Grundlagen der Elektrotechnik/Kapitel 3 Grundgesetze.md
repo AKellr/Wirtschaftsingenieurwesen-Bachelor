@@ -1,3 +1,4 @@
+[[GDE]]
 # Notizen zu Kapitel 3: Grundgesetze (Notes on Chapter 3: Basic Laws)
 
 ## Einführung (Introduction)

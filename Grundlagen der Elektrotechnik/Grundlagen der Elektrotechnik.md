@@ -1,3 +1,4 @@
+[[GDE]]
 **Einordnung der Elektrotechnik**
 • **Physik** wird als Naturwissenschaft definiert.
 • **Elektrotechnik** ist eine **Ingenieurwissenschaft**, die sich mit der **technischen Nutzung elektrischer Vorgänge** befasst.

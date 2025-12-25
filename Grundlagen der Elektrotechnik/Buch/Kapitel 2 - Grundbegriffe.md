@@ -1,3 +1,4 @@
+[[GDE]]
 ## **Elektrische Ladung (Q)**
 - **Grundlage**: Alle Phänomene in der Elektrotechnik basieren auf der Existenz oder Bewegung elektrischer Ladungen.
 - **Arten**: Es gibt **positive** und **negative** elektrische Ladung

@@ -1,3 +1,4 @@
+[[GDM]]
 # Technisches Zeichnen (Technical Drawing)
 ## 2.3 Technisches Zeichnen: Lernziele (Learning Objectives)
 Die Lernziele des Kapitels umfassen (The learning objectives of the chapter include):

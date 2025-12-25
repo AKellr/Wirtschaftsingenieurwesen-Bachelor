@@ -1,3 +1,4 @@
+[[GDM]]
 ## SWOT-Analyse
 
 |Begriff (Term)|Typ (Type)|Beschreibung (Description)|

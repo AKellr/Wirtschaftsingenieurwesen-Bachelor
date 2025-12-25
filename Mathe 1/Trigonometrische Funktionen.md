@@ -1,3 +1,5 @@
+[[Math]]
+
 ## 1.5 Trigonometrische Funktionen (Trigonometric Functions)
 ### 1.5.1 Eigenschaften (Properties)
 #### Erinnerung: Trigonometrie (Recap: Trigonometry)

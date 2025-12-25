@@ -1,3 +1,4 @@
+[[INF]]
 Pioniere der Informatik
 • **Kurt Gödel** (1906-1978): Liefert theoretische Aussagen zum Algorithmenbegriff.
 • **Alan M. Turing** (1911-1954): Definiert den Algorithmenbegriff über eine hypothetische Maschine (Turing-Maschine).

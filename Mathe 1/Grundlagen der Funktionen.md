@@ -1,3 +1,5 @@
+[[Math]]
+
 ### 1.1 Darstellung und Eigenschaften von Funktionen
 #### Funktionsbegriff
 - **Definition**: Eine Funktion ist eine **eindeutige Zuordnung** von Elementen $x$ aus einem Definitionsbereich $D$ (Argumente) zu Elementen $y$ aus einem Bild- oder Wertebereich $B$.

@@ -1,3 +1,4 @@
+[[GDM]]
 **Unternehmen und Betrieb (Enterprise and Firm/Establishment)**
 **Unternehmen (Enterprise)**
 Ein „Unternehmen“ ist ein **spezieller Betriebstyp** (a **special type of firm/establishment**) in marktwirtschaftlichen Systemen (in market economy systems).
