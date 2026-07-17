@@ -1,6 +1,6 @@
 # Wirtschaftsingenieurwesen (B.Sc.) — Modulnotizen
 
-Eine strukturierte Sammlung von persönlichen Lernnotizen, Übungsaufgaben und Zusammenfassungen aus meinem Studium des **Wirtschaftsingenieurwesens** an der **Hochschule Koblenz**.
+Eine strukturierte Sammlung von persönlichen Lernnotizen, Übungsaufgaben und Zusammenfassungen aus meinem Studium des Wirtschaftsingenieurwesens an der Hochschule Koblenz.
 
 ## Zweck des Repositories
 
